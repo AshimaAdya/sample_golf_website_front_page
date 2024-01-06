@@ -27,6 +27,7 @@ The navigation bar at the top of the page includes links to different sections o
 
 ### Page 1
 - Features a welcoming message and an introduction to Sidcup Family Golf.
+- A video playing effect in the background
 - Includes an arrow icon that animates when hovered.
 
 ![Page 1](images/page1.png)
@@ -34,8 +35,13 @@ The navigation bar at the top of the page includes links to different sections o
 ### Page 2
 - Showcases a horizontal scroller with repeated navigation links.
 - Provides information about the venue and features dinosaur-themed crazy golf courses.
+- Tilted Animation on cards
+- Scroll Trigger
 
-![Page 2](images/page2.png)
+![Page 2](images/page2-1.png)
+![Page 2](images/page2-2.png)
+![Page 2](images/page2-3.png)
+![Page 2](images/page2-4.png)
 
 ### Page 3
 - Displays customer testimonials with a quote design.
