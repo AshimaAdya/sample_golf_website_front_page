@@ -38,10 +38,14 @@ The navigation bar at the top of the page includes links to different sections o
 - Tilted Animation on cards
 - Scroll Trigger
 
-![Page 2](images/page2-1.png)
-![Page 2](images/page2-2.png)
-![Page 2](images/page2-3.png)
-![Page 2](images/page2-4.png)
+![Page 2](images/page2-1.png)<br>
+<br>
+![Page 2](images/page2-2.png)<br>
+<br>
+![Page 2](images/page2-3.png)<br>
+<br>
+![Page 2](images/page2-4.png)<br>
+<br>
 
 ### Page 3
 - Displays customer testimonials with a quote design.
@@ -52,7 +56,7 @@ The navigation bar at the top of the page includes links to different sections o
 ### Page 4
 - Highlights key sections with images and titles: TOPTRACER RANGE, GOLF LESSONS, ADVENTURE GOLF.
 
-![Page 4](images/page4.png)
+![Page 4](images/page3-1.png)
 
 ### Footer
 - Presents information about the venue, including address and contact details.
